@@ -1,16 +1,16 @@
-## Hi there 👋
+## Felix Bumann
 
-<!--
-**FBumann/FBumann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Energy system optimization at SachsenEnergie AG · contributor to [**linopy**](https://github.com/PyPSA/linopy) · [fxbumann.de](https://fxbumann.de)
 
-Here are some ideas to get you started:
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=FBumann&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FBumann&layout=compact&hide=jupyter%20notebook&hide_border=true&theme=transparent" alt="Top languages" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=FBumann&hide_border=true&theme=transparent" alt="Contribution streak" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=FBumann&hide_border=true&bg_color=00000000&color=4a90d9&line=4a90d9&point=4a90d9" alt="Contribution graph" />
+</p>
