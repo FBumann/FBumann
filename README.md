@@ -3,8 +3,8 @@
 I work on the future building blocks for energy system models: open tools to formulate, solve and analyse them, for example [**linopy**](https://github.com/PyPSA/linopy).
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=FBumann&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FBumann&layout=compact&hide=jupyter%20notebook&hide_border=true&theme=transparent" alt="Top languages" />
+  <img height="165" src="./profile/stats.svg" alt="GitHub stats" />
+  <img height="165" src="./profile/top-langs.svg" alt="Top languages" />
 </p>
 
 <p align="center">
